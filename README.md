@@ -1,4 +1,4 @@
-# Student-assigement-application-management-system
+# Student-assigement-alerting-management-system
 
 ![image](https://github.com/user-attachments/assets/1bcdc708-dcfc-4bc7-bf90-0346f6327e98)
 
